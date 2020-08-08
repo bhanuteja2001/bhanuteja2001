@@ -24,6 +24,5 @@ Tech Stack,
 ![Bhanu Teja's github stats](https://github-readme-stats.vercel.app/api?username=bhanuteja2001&show_icons=true&theme=radical) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuteja2001&hide=javascript,html)]
 
  ![](https://komarev.com/ghpvc/?username=bhanuteja2001)
