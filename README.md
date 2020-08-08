@@ -2,6 +2,7 @@
  
  I am a Electronics Student with an interest in Data Science and Machine Learning.Had Experience in Web Development.
  
+ ![](https://komarev.com/ghpvc/?username=bhanuteja2001)
  
 - 👨🏽‍💻 Currently working with Machine learning, data structures and algorithms.
 - 🤝 Open for collaborations in Machine learning and Data science.
