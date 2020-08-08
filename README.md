@@ -1,9 +1,7 @@
 ## Hi 👋 I am Bhanu Teja!
  
  I am a Electronics Student with an interest in Data Science and Machine Learning.Had Experience in Web Development.
- 
- ![](https://komarev.com/ghpvc/?username=bhanuteja2001)
- 
+  
 - 👨🏽‍💻 Currently working with Machine learning, data structures and algorithms.
 - 🤝 Open for collaborations in Machine learning and Data science.
 - 😊 Willing to contribute in opensource projects.
@@ -24,3 +22,5 @@ Tech Stack,
 <img src="https://img.shields.io/badge/mongoDB%20-%23589636.svg?&style=for-the-badge&logo=mongoDB&logoColor=white"/>
 
 ![Bhanu Teja's github stats](https://github-readme-stats.vercel.app/api?username=bhanuteja2001&show_icons=true&theme=radical)
+
+ ![](https://komarev.com/ghpvc/?username=bhanuteja2001)
