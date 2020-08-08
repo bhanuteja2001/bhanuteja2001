@@ -21,6 +21,9 @@ Tech Stack,
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongoDB%20-%23589636.svg?&style=for-the-badge&logo=mongoDB&logoColor=white"/>
 
-![Bhanu Teja's github stats](https://github-readme-stats.vercel.app/api?username=bhanuteja2001&show_icons=true&theme=radical)
+![Bhanu Teja's github stats](https://github-readme-stats.vercel.app/api?username=bhanuteja2001&show_icons=true&theme=radical) 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuteja2001&hide=javascript,html)]
 
  ![](https://komarev.com/ghpvc/?username=bhanuteja2001)
