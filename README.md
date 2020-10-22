@@ -2,7 +2,7 @@
  
  I am a Electronics Student with an interest in Data Science and Machine Learning.Had Experience in Web Development.
   
-- 👨🏽‍💻 Currently working with Machine learning, data structures and algorithms.
+- 👨🏽‍💻 Currently working with Machine learning,Deep Learning, Data structures and Algorithms.
 - 🤝 Open for collaborations in Machine learning and Data science.
 - 😊 Willing to contribute in opensource projects.
 - 👍 Looking for opportunities
