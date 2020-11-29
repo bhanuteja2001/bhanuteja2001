@@ -1,6 +1,6 @@
 ## Hi 👋 I am Bhanu Teja!
  
- An Electronics Student with an interest in Data Science and Machine Learning.Had Experience in Web Development.
+ An Electronics Student with an interests in Computer Vision, Deep Learning and Machine Learning.Had Experience in Web Development.
   
 - 👨🏽‍💻 Currently working with Machine learning,Deep Learning, Data structures and Algorithms.
 - 🤝 Open for collaborations in Machine learning and Data science.
